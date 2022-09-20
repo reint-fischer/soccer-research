@@ -12,3 +12,4 @@ This is a repository for sports analytics ideas, from collecting data to answeri
   - Tackling: D-line, linebackers, D-backs
   - Receiving distributions
   - Runn/pass: no. of plays, efficiency
+    - What do teams do in the redzone?
